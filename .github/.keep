@@ -1,0 +1,19 @@
+Analyse demandée
+
+1️⃣ Code le plus lisible
+👉 La version récursive est souvent plus lisible pour les problèmes mathématiques simples.
+
+2️⃣ Code le plus performant
+👉 La version itérative (boucle) est plus performante.
+
+3️⃣ La récursion peut-elle poser des problèmes ?
+👉 Oui, elle peut provoquer un dépassement de pile (stack overflow) si n est trop grand.
+
+4️⃣ Quand privilégier une boucle ?
+👉
+
+Pour de grands volumes de données
+
+Pour de meilleures performances
+
+Pour éviter les erreurs de récursion
